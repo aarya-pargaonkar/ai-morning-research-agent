@@ -1,0 +1,10 @@
+[project]
+name = "ai-morning-research-agent"
+version = "0.1.0"
+description = "A learning project that builds a web research agent step by step."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "openai>=3.24.0",
+    "python-dotenv>=1.2.4",
+]
